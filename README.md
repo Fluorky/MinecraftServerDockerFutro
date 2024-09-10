@@ -28,9 +28,10 @@ Before you begin, ensure you have the following installed:
    This command will pull the necessary Docker image (itzg/minecraft-server), create a container, and start the Minecraft server in detached mode (-d flag).
 
 3. **Accessing the Server.**
+
    The Minecraft server will be accessible on the default port 25565. You or other players can join the server using your public IP address (or localhost if running locally).
 
-4. **Stopping the Server.** To stop the server, run:
+5. **Stopping the Server.** To stop the server, run:
 
    ```bash
    docker-compose down

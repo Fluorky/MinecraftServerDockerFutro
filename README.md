@@ -1,6 +1,13 @@
 # MinecraftServerDockerFutro
 Minecraft Server docker compose for Fujitsu Futro S740
 
+### Recommended Requirements (for a smoother experience with more players)
+- **CPU**: Quad-core CPU (in futro s740 have Intel Celeron J4105 Quad-core CPU)
+- **RAM**: 4 GB or more (dedicated to the server)
+- **Storage**: 20 GB of available disk space (SSD strongly recommended)
+- **Network**: 100 Mbps or higher upload speed
+- **Operating System**: 64-bit (Linux, Windows)
+
 This README provides instructions for running a Minecraft server using Docker, based on the `docker-compose.yml` file provided.
 
 ## Prerequisites

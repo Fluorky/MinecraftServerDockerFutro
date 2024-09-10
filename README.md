@@ -17,11 +17,13 @@ Before you begin, ensure you have the following installed:
    ```bash
    mkdir minecraft-server
    cd minecraft-server
+   ```
 
 2. **Start the Minecraft server. Run the following command to start the server:
 
    ```bash
    docker-compose up -d
+   ```
 
 This command will pull the necessary Docker image (itzg/minecraft-server), create a container, and start the Minecraft server in detached mode (-d flag).
 

@@ -18,8 +18,8 @@ Before you begin, ensure you have the following installed:
    mkdir minecraft-server
    cd minecraft-server
    ```
-
-2. **Start the Minecraft server. Run the following command to start the server:
+   
+2. **Start the Minecraft server.** Run the following command to start the server:
 
    ```bash
    docker-compose up -d

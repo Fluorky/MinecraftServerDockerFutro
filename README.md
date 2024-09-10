@@ -1,5 +1,5 @@
 # MinecraftServerDockerFutro
-Minecraft Server docker compose for Fijitsu Futro S740
+Minecraft Server docker compose for Fujitsu Futro S740
 
 This README provides instructions for running a Minecraft server using Docker, based on the `docker-compose.yml` file provided.
 

@@ -38,7 +38,12 @@ Before you begin, ensure you have the following installed:
 
    The Minecraft server will be accessible on the default port 25565. You or other players can join the server using your public IP address (or localhost if running locally).
 
-5. **Stopping the Server.** To stop the server, run:
+4. **Checking status of the server** To check status of the server use this command:
+   ```bash
+   docker ps
+   ```
+   
+4. **Stopping the Server.** To stop the server, run:
 
    ```bash
    docker-compose down

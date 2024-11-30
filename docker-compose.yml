@@ -8,6 +8,7 @@ services:
     environment:
       EULA: "TRUE"
       OPS: "MrBoomPL"
+      ENABLE_COMMAND_BLOCK: "true"
       MOTD: "Welcome to TESTHUB Craft"
       SPAWN_PROTECTION: 0
     restart: unless-stopped
